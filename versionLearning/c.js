@@ -1,5 +1,4 @@
 /**
-<<<<<<< HEAD
  * Created by  on 16/9/24.
  *
  * df;gk;ldkg;dg
