@@ -1,3 +1,4 @@
+
 /**
  * Created by  on 16/9/24.
  *
@@ -12,7 +13,7 @@
 function a() {
     console.log("lkjfl")
 }
-function master() {
+function devgter() {
     console.log(",kdjglkgjd")
 console.log("master+devkjgkjg")
 }
