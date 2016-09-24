@@ -11,3 +11,7 @@
 function a() {
     console.log("lkjfl")
 }
+function d() {
+    console.log(",kdjglkgjd")
+
+}
