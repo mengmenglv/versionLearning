@@ -12,3 +12,6 @@ function devgter() {
     console.log(",kdjglkgjd")
 console.log("master+devkjgkjg")
 }
+function df() {
+    console.log("klldjfg")
+}
