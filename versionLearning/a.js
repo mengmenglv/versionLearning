@@ -7,6 +7,7 @@ var a = 2;
 var b = 3;
 
 function sum(a,b) {
+    //sum增加注释
     return a+b;
 }
 
