@@ -11,7 +11,7 @@
 function a() {
     console.log("lkjfl")
 }
-function devgter() {
+function master() {
     console.log(",kdjglkgjd")
 console.log("master+devkjgkjg")
 }
