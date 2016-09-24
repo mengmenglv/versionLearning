@@ -13,5 +13,5 @@ function a() {
 }
 function d() {
     console.log(",kdjglkgjd")
-console.log("master")
+console.log("master+devkjgkjg")
 }
