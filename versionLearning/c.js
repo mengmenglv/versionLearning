@@ -5,7 +5,7 @@
 //dev 分支修改新增
 //fdgs
 //dev分支
-function Master() {
+function dev() {
 console.log("kflkl")
 }
 function devMlkldfl() {
