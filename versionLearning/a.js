@@ -8,7 +8,7 @@ var b = 3;
 var c = 5;
 function sum(a,b) {
     //sum增加注释
-    return a+b;
+    return a*b;
 }
 
 var d = sum(a,b);
