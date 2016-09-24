@@ -5,7 +5,7 @@
 //fdgs
 //dev分支
 
-function a() {
+function mmaster() {
     console.log("lkjfl")
 }
 function devgter() {
