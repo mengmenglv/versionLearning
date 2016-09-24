@@ -11,10 +11,6 @@
 
 //dev分支
 
-<<<<<<< HEAD
-function c() {
-=======
 function a() {
->>>>>>> dev
     console.log("lkjfl")
 }
