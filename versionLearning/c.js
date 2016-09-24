@@ -1,9 +1,6 @@
 /**
 <<<<<<< HEAD
  * Created by  on 16/9/24.
-=======
- * Created by lvmengmeng on 16/9/24.
->>>>>>> dev
  */
 
 //测试提交
