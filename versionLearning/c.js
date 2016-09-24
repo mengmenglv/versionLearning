@@ -11,7 +11,7 @@
 function a() {
     console.log("lkjfl")
 }
-function ccc() {
+function masgter() {
     console.log(",kdjglkgjd")
 console.log("master+devkjgkjg")
 }
