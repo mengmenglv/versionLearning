@@ -1,3 +1,15 @@
 # Created by .ignore support plugin (hsz.mobi)
-学习git使用方法
+# NPM
+/node_modules/
+/npm-debug.log
+
+# Build
+/dev/build
+/dev/.release
+
+# Test
+/test/screenshot/
+
+# Global (additional insurance for someone who haven't add this in global gitignore)
+.DS_Store
 /.idea
