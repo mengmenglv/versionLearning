@@ -6,7 +6,7 @@
 var a = 2;
 var b = 3;
 var c = 5;
-function fssdfsad(a,b,c) {
+function master(a,b,c) {
     //sum增加注释
     return a+b+c;
 }
