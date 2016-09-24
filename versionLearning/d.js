@@ -10,6 +10,9 @@ function master(a,b,c) {
     //sum增加注释
     return a+b+c;
 }
+function dfdf() {
+
+}
 
 var d = sum(a,b);
 alert(d);
