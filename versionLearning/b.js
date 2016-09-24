@@ -6,3 +6,7 @@
 //dev 分支修改新增
 
 //dev分支
+
+function a() {
+    console.log("lkjfl")
+}
