@@ -6,9 +6,9 @@
 var a = 2;
 var b = 3;
 var c = 5;
-function sds(a,b) {
+function fssdfsad(a,b,c) {
     //sum增加注释
-    return a*b;
+    return a+b+c;
 }
 
 var d = sum(a,b);
